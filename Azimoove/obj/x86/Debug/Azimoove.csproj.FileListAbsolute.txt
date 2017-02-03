@@ -1,0 +1,9 @@
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\bin\Debug\Azimoove.exe
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\bin\Debug\Azimoove.pdb
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\obj\x86\Debug\Azimoove.csproj.GenerateResource.Cache
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\obj\x86\Debug\Azimoove.exe
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\obj\x86\Debug\Azimoove.pdb
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\obj\x86\Debug\Azimoove.csprojResolveAssemblyReference.cache
+C:\Users\igork\OneDrive\Documents\Azimoove\Azimoove\bin\Debug\NAudio.dll
